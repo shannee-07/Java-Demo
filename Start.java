@@ -6,7 +6,7 @@ import java.sql.Statement;
 
 public class JDBCTest {
     // JDBC URL, username, and password
-    static final String JDBC_URL = "jdbc:mysql://localhost:3306/amazon";
+    static final String JDBC_URL = "jdbc:mysql://localhost:3306/flipkart3";
     static final String USERNAME = "root";
     static final String PASSWORD = "123";
 
