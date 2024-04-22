@@ -8,7 +8,7 @@ public class JDBCTest {
     // JDBC URL, username, and password
     static final String JDBC_URL = "jdbc:mysql://localhost:3306/flipkart";
 if(!validate(JDBC_URL)){
-    return
+    return 0;
 }
     
     static final String USERNAME = "root";
