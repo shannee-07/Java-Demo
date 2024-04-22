@@ -49,3 +49,13 @@ def greet(name):
 
 
 Save the above content in a file with a `.md` extension, and you'll have a markdown document with the specified elements.
+
+
+## Tables
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+| Data 7   | Data 8   | Data 9   |
+
