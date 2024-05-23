@@ -7,9 +7,9 @@ import java.util.validate;
 
 public class JDBCTest {
     // JDBC URL, username, and password
-    static final String JDBC_URL = "jdbc:mysql://localhost:3306/flipkart";
+    static final String JDBC_URL = "jdbc:mysql://localhost:3306/stores";
     static final String USERNAME = "root";
-    static final String PASSWORD = "1234";
+    static final String PASSWORD = "12345678";
 
     public static void main(String[] args) {
         Connection connection = null;
