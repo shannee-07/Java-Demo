@@ -6,7 +6,7 @@ import java.sql.Statement;
 import java.util.validate;
 
 public class JDBCTest {
-    // JDBC URL, username, and password
+    // JDBC Credentials
     static final String JDBC_URL = "jdbc:mysql://localhost:3306/stores";
     static final String USERNAME = "root";
     static final String PASSWORD = "12345678";
