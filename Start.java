@@ -8,7 +8,7 @@ import java.util.validate;
 public class JDBCTest {
     // JDBC Credentials
     static final String JDBC_URL = "jdbc:mysql://localhost:3306/Ecommerce";
-    static final String USERNAME = "abc";
+    static final String USERNAME = "user-01";
     static final String PASSWORD = "098765";
 
     public static void main(String[] args) {
